@@ -1,4 +1,0 @@
-﻿  Main.c
-c:\sm2\sm2sign\sm2sign\sm2sign\main.c(78): warning C4013: “memcmp”未定义；假设外部返回 int
-c:\sm2\sm2sign\sm2sign\sm2sign\main.c(143): warning C4013: “system”未定义；假设外部返回 int
-  SM2Sign.vcxproj -> C:\SM2\SM2Sign\SM2Sign\Debug\SM2Sign.exe
